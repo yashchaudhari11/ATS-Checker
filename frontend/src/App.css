@@ -1,0 +1,14 @@
+/* frontend/src/App.css */
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  input, button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+  }
+  
